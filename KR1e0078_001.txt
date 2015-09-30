@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋胡氏傳辨疑
-#+DATE: 2015-09-23 09:40:13
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:15:51.014382
+#+PROPERTY: ID KR1e0078
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1e0078_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋胡氏傳辨疑卷上¶
@@ -470,4 +472,3 @@
 　¶
 　¶
 　春秋胡氏傳辨疑卷上¶
-

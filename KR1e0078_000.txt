@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋胡氏傳辨疑
-#+DATE: 2015-09-23 09:40:13
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:15:51.003336
+#+PROPERTY: ID KR1e0078
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1e0078_WYG_000-1a>¶
 欽定四庫全書　　　　　經部五¶
 　春秋胡氏傳辨疑　　　　春秋類¶
@@ -33,6 +35,7 @@
 　　　　月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1e0078_WYG_000-3a>¶
 春秋胡氏傳辨疑原序¶
 昔仲尼作春秋㫖微而顯至胡氏說經庶㡬得之惜其¶
@@ -44,4 +47,3 @@
 深於春秋者儻取二三䇿乎否則無惑乎諸君病吾言¶
 <pb:KR1e0078_WYG_000-3b>¶
 也陸粲序¶
-
